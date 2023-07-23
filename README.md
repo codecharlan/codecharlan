@@ -14,11 +14,11 @@
     LinkedIn: **https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152/**
 ### Connect with me:
 &nbsp;&nbsp;
-[https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg](https://twitter.com/CodeCharlan#gh-light-mode-only)
-[https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg](https://twitter.com/CodeCharlan#gh-dark-mode-only)
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/CodeCharlan#gh-light-mode-only)
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/CodeCharlan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-light-mode-only)
-[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-dark-mode-only)
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-light-mode-only)
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-dark-mode-only)
 
 
 ### Languages and Tools:
