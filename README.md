@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodeCharlan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCodeCharlan&screen_name=CodeCharlan)
 
 ## I'm a Java Developer and Teacher!!
-<img src="https://www.codewars.com/users/codecharlan/badges/large" alt="CodeCharlan Codewars Badge">
+<img align="center" src="https://www.codewars.com/users/codecharlan/badges/large" alt="CodeCharlan Codewars Badge">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecharlan&label=Profile%20views&color=0e75b6&style=flat" alt="codecharlan" /> </p>
 
 
@@ -45,7 +45,6 @@
 
     GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecharlan" alt="codecharlan"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecharlan&layout=compact&theme=dark&bg_color=0A0A0A" alt=" codecharlan Top Languages"/>
 <img align="left" alt="codecharlan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codecharlan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
   
