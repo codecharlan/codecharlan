@@ -13,12 +13,13 @@
 - 📫 How to reach me mail: **ernestifeanyi91@gmail.com**
     LinkedIn: **https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152/**
 ### Connect with me:
-
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/CodeCharlan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/CodeCharlan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -50,3 +51,10 @@
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/CodeCharlan
 [linkedin]: https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152/
+[course]: http://vsCodeHero.com
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
