@@ -5,7 +5,7 @@
 ## I'm a Java Developer and Teacher!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecharlan&label=Profile%20views&color=0e75b6&style=flat" alt="codecharlan" /> </p>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently coding 🤣
 - 💬 Ask me about **Java and Software Best Practices**
 - 🥅 2023 Goals: Learn more about web3, bitcoin lightning network
 - ⚡ Fun fact: I love to code & teach Java
@@ -14,11 +14,11 @@
     LinkedIn: **https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152/**
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/CodeCharlan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/CodeCharlan#gh-dark-mode-only)
+[https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg](https://twitter.com/CodeCharlan#gh-light-mode-only)
+[https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg](https://twitter.com/CodeCharlan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-dark-mode-only)
+[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-light-mode-only)
+[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -35,8 +35,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 <br />
 <br />
 
@@ -51,10 +49,3 @@
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/CodeCharlan
 [linkedin]: https://www.linkedin.com/in/ifeanyichukwu-ernest-nwatu-44a65a152/
-[course]: http://vsCodeHero.com
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
