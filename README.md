@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecharlan&label=Profile%20views&color=0e75b6&style=flat" alt="codecharlan" /> </p>
 
 
-- 🌱 I’m currently coding 🤣
 - 💬 Ask me about **Java and Software Best Practices**
 - 🥅 2023 Goals: Learn more about web3, bitcoin lightning network
 - ⚡ Fun fact: I love to code & teach Java
