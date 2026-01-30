@@ -2,7 +2,7 @@
 
 # 👋 Ernest Nwatu
 
-### Senior Java Engineer • Backend Architect • System Design • Educator
+### Senior Java Engineer • Backend Architect • System Design • Developers Tool • Educator
 
 *Building robust systems, crafting scalable APIs, and empowering developers*
 
